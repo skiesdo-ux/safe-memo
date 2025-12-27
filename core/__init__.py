@@ -1,0 +1,1 @@
+# SafeMemo core package
